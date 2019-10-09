@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067803926994",
+    "firebase_url": "https://dsfa-8357a.firebaseio.com",
+    "project_id": "dsfa-8357a",
+    "storage_bucket": "dsfa-8357a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067803926994:android:984af5f471ed218669280b",
+        "android_client_info": {
+          "package_name": "com.ibm.dsfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067803926994-j3s9teaejfbu81cnm2oedmajg4ea34i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnlXMUC62zNO8FT6LRHNYEIw48I5oDqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067803926994-j3s9teaejfbu81cnm2oedmajg4ea34i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
